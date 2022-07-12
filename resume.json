@@ -1,0 +1,108 @@
+{
+    "basics": {
+        "name": "Umang Jaiswal",
+        "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/83717769?v=4",
+        "email": "2021kucp1053@iiitkota.ac.in",
+        "phone": "+919068433169",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+        "location": {
+            "address": "Central Jail",
+            "postalCode": "243122",
+            "city": "Bareilly",
+            "countryCode": "India",
+            "region": "Uttar Pradesh"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Github",
+                "username": "AYSTRONGIRP",
+                "url": "https://github.com/AYSTRONGIRP"
+            },
+            {
+                "network": "linkedin",
+                "username": "",
+                "url": "https://www.linkedin.com/in/umang-jaiswal-088476211"
+            },
+            {
+                "network": "Instagram",
+                "username": "laus_the_curious",
+                "url": "https://www.instagram.com/laus_the_curious/"
+            }
+        ]
+    },
+    "work": [
+       
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        
+    ],
+    "publications": [
+        
+    ],
+    "skills": [
+        {
+            "name": "",
+            "level": "intermediate",
+            "keywords": [
+                "robotics",
+                "HTML",
+                "CSS",
+                "Javascript",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "C/C++",
+                "Java",
+                "Python",
+                "",
+                ""
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Drones",
+            "keywords": [
+                "Football",
+                "Chess"
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Football",
+                "Chess"
+            ]
+        }
+    ]
+}
